@@ -1,0 +1,2342 @@
+{
+  "updated": "2026-07-15",
+  "market": "AU",
+  "count": 389,
+  "source": "https://www.doublesave.com/au/discount-codes/",
+  "retailers": [
+    {
+      "name": "2XU",
+      "slug": "2xu",
+      "category": "performance_apparel",
+      "url": "https://www.doublesave.com/au/discount-codes/2xu/"
+    },
+    {
+      "name": "7-Eleven",
+      "slug": "7-eleven",
+      "category": "convenience_fuel",
+      "url": "https://www.doublesave.com/au/discount-codes/7-eleven/"
+    },
+    {
+      "name": "99 Bikes",
+      "slug": "99-bikes",
+      "category": "cycling",
+      "url": "https://www.doublesave.com/au/discount-codes/99-bikes/"
+    },
+    {
+      "name": "Accor",
+      "slug": "accor",
+      "category": "hotels",
+      "url": "https://www.doublesave.com/au/discount-codes/accor/"
+    },
+    {
+      "name": "Adairs",
+      "slug": "adairs",
+      "category": "homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/adairs/"
+    },
+    {
+      "name": "adidas",
+      "slug": "adidas",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/adidas/"
+    },
+    {
+      "name": "Adore Beauty",
+      "slug": "adore-beauty",
+      "category": "beauty_online",
+      "url": "https://www.doublesave.com/au/discount-codes/adore-beauty/"
+    },
+    {
+      "name": "Adrenaline",
+      "slug": "adrenaline",
+      "category": "experiences_gifting",
+      "url": "https://www.doublesave.com/au/discount-codes/adrenaline/"
+    },
+    {
+      "name": "Aesop",
+      "slug": "aesop",
+      "category": "luxury_skincare",
+      "url": "https://www.doublesave.com/au/discount-codes/aesop/"
+    },
+    {
+      "name": "Agoda",
+      "slug": "agoda",
+      "category": "travel_booking",
+      "url": "https://www.doublesave.com/au/discount-codes/agoda/"
+    },
+    {
+      "name": "Airbnb",
+      "slug": "airbnb",
+      "category": "travel_booking",
+      "url": "https://www.doublesave.com/au/discount-codes/airbnb/"
+    },
+    {
+      "name": "Aje",
+      "slug": "aje",
+      "category": "designer_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/aje/"
+    },
+    {
+      "name": "ALDI",
+      "slug": "aldi",
+      "category": "groceries",
+      "url": "https://www.doublesave.com/au/discount-codes/aldi/"
+    },
+    {
+      "name": "AliExpress",
+      "slug": "aliexpress",
+      "category": "marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/aliexpress/"
+    },
+    {
+      "name": "Amart Furniture",
+      "slug": "amart-furniture",
+      "category": "furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/amart-furniture/"
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "category": "marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/amazon/"
+    },
+    {
+      "name": "Amcal",
+      "slug": "amcal",
+      "category": "pharmacy",
+      "url": "https://www.doublesave.com/au/discount-codes/amcal/"
+    },
+    {
+      "name": "Ampol",
+      "slug": "ampol",
+      "category": "fuel",
+      "url": "https://www.doublesave.com/au/discount-codes/ampol/"
+    },
+    {
+      "name": "Anaconda",
+      "slug": "anaconda",
+      "category": "outdoor_adventure",
+      "url": "https://www.doublesave.com/au/discount-codes/anaconda/"
+    },
+    {
+      "name": "Apple",
+      "slug": "apple",
+      "category": "consumer_electronics",
+      "url": "https://www.doublesave.com/au/discount-codes/apple/"
+    },
+    {
+      "name": "Appliances Online",
+      "slug": "appliances-online",
+      "category": "appliances_online",
+      "url": "https://www.doublesave.com/au/discount-codes/appliances-online/"
+    },
+    {
+      "name": "ASICS",
+      "slug": "asics",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/asics/"
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "category": "online_fashion_marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/asos/"
+    },
+    {
+      "name": "Audible",
+      "slug": "audible",
+      "category": "digital_subscriptions",
+      "url": "https://www.doublesave.com/au/discount-codes/audible/"
+    },
+    {
+      "name": "Australia Zoo",
+      "slug": "australia-zoo",
+      "category": "zoos_attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/australia-zoo/"
+    },
+    {
+      "name": "Autobarn",
+      "slug": "autobarn",
+      "category": "automotive",
+      "url": "https://www.doublesave.com/au/discount-codes/autobarn/"
+    },
+    {
+      "name": "Avis",
+      "slug": "avis",
+      "category": "car_hire",
+      "url": "https://www.doublesave.com/au/discount-codes/avis/"
+    },
+    {
+      "name": "Baby Bunting",
+      "slug": "baby-bunting",
+      "category": "baby_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/baby-bunting/"
+    },
+    {
+      "name": "Bailey Nelson",
+      "slug": "bailey-nelson",
+      "category": "optical",
+      "url": "https://www.doublesave.com/au/discount-codes/bailey-nelson/"
+    },
+    {
+      "name": "Bakers Delight",
+      "slug": "bakers-delight",
+      "category": "bakery",
+      "url": "https://www.doublesave.com/au/discount-codes/bakers-delight/"
+    },
+    {
+      "name": "Barbeques Galore",
+      "slug": "barbeques-galore",
+      "category": "bbq_outdoor",
+      "url": "https://www.doublesave.com/au/discount-codes/barbeques-galore/"
+    },
+    {
+      "name": "Bared Footwear",
+      "slug": "bared-footwear",
+      "category": "comfort_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/bared-footwear/"
+    },
+    {
+      "name": "BCF",
+      "slug": "bcf",
+      "category": "outdoor_boating_camping_fishing",
+      "url": "https://www.doublesave.com/au/discount-codes/bcf/"
+    },
+    {
+      "name": "Beacon Lighting",
+      "slug": "beacon-lighting",
+      "category": "lighting",
+      "url": "https://www.doublesave.com/au/discount-codes/beacon-lighting/"
+    },
+    {
+      "name": "Beauty Bay",
+      "slug": "beauty-bay",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/beauty-bay/"
+    },
+    {
+      "name": "Bed Bath N' Table",
+      "slug": "bed-bath-n-table",
+      "category": "homewares_bedding",
+      "url": "https://www.doublesave.com/au/discount-codes/bed-bath-n-table/"
+    },
+    {
+      "name": "Bed Threads",
+      "slug": "bed-threads",
+      "category": "linen_dtc",
+      "url": "https://www.doublesave.com/au/discount-codes/bed-threads/"
+    },
+    {
+      "name": "Beginning Boutique",
+      "slug": "beginning-boutique",
+      "category": "youth_fashion_online",
+      "url": "https://www.doublesave.com/au/discount-codes/beginning-boutique/"
+    },
+    {
+      "name": "Bellroy",
+      "slug": "bellroy",
+      "category": "carry_goods",
+      "url": "https://www.doublesave.com/au/discount-codes/bellroy/"
+    },
+    {
+      "name": "Berlei",
+      "slug": "berlei",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/berlei/"
+    },
+    {
+      "name": "Best&Less",
+      "slug": "best-and-less",
+      "category": "value_family_clothing",
+      "url": "https://www.doublesave.com/au/discount-codes/best-and-less/"
+    },
+    {
+      "name": "Betty's Burgers",
+      "slug": "bettys-burgers",
+      "category": "fast_casual",
+      "url": "https://www.doublesave.com/au/discount-codes/bettys-burgers/"
+    },
+    {
+      "name": "Big W",
+      "slug": "big-w",
+      "category": "discount_department",
+      "url": "https://www.doublesave.com/au/discount-codes/big-w/"
+    },
+    {
+      "name": "BIG4 Holiday Parks",
+      "slug": "big4",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/big4/"
+    },
+    {
+      "name": "Billabong",
+      "slug": "billabong",
+      "category": "surfwear",
+      "url": "https://www.doublesave.com/au/discount-codes/billabong/"
+    },
+    {
+      "name": "Bing Lee",
+      "slug": "bing-lee",
+      "category": "electronics_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/bing-lee/"
+    },
+    {
+      "name": "Binge",
+      "slug": "binge",
+      "category": "streaming",
+      "url": "https://www.doublesave.com/au/discount-codes/binge/"
+    },
+    {
+      "name": "Birkenstock",
+      "slug": "birkenstock",
+      "category": "sandals",
+      "url": "https://www.doublesave.com/au/discount-codes/birkenstock/"
+    },
+    {
+      "name": "Blundstone",
+      "slug": "blundstone",
+      "category": "work_boots",
+      "url": "https://www.doublesave.com/au/discount-codes/blundstone/"
+    },
+    {
+      "name": "Bondi Sands",
+      "slug": "bondi-sands",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/bondi-sands/"
+    },
+    {
+      "name": "Bonds",
+      "slug": "bonds",
+      "category": "underwear_apparel",
+      "url": "https://www.doublesave.com/au/discount-codes/bonds/"
+    },
+    {
+      "name": "Boody",
+      "slug": "boody",
+      "category": "underwear_basics",
+      "url": "https://www.doublesave.com/au/discount-codes/boody/"
+    },
+    {
+      "name": "Booking.com",
+      "slug": "booking-com",
+      "category": "travel_accommodation",
+      "url": "https://www.doublesave.com/au/discount-codes/booking-com/"
+    },
+    {
+      "name": "Booktopia",
+      "slug": "booktopia",
+      "category": "books",
+      "url": "https://www.doublesave.com/au/discount-codes/booktopia/"
+    },
+    {
+      "name": "Boost Juice",
+      "slug": "boost-juice",
+      "category": "juice_bars",
+      "url": "https://www.doublesave.com/au/discount-codes/boost-juice/"
+    },
+    {
+      "name": "Bose",
+      "slug": "bose",
+      "category": "audio",
+      "url": "https://www.doublesave.com/au/discount-codes/bose/"
+    },
+    {
+      "name": "BP",
+      "slug": "bp",
+      "category": "fuel",
+      "url": "https://www.doublesave.com/au/discount-codes/bp/"
+    },
+    {
+      "name": "Bras N Things",
+      "slug": "bras-n-things",
+      "category": "lingerie",
+      "url": "https://www.doublesave.com/au/discount-codes/bras-n-things/"
+    },
+    {
+      "name": "Breville",
+      "slug": "breville",
+      "category": "kitchen_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/breville/"
+    },
+    {
+      "name": "Brooks",
+      "slug": "brooks",
+      "category": "footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/brooks/"
+    },
+    {
+      "name": "Budget",
+      "slug": "budget",
+      "category": "car_hire",
+      "url": "https://www.doublesave.com/au/discount-codes/budget/"
+    },
+    {
+      "name": "Budget Pet Products",
+      "slug": "budget-pet-products",
+      "category": "pet_supplies",
+      "url": "https://www.doublesave.com/au/discount-codes/budget-pet-products/"
+    },
+    {
+      "name": "Bunnings",
+      "slug": "bunnings",
+      "category": "hardware_home_improvement",
+      "url": "https://www.doublesave.com/au/discount-codes/bunnings/"
+    },
+    {
+      "name": "BWS",
+      "slug": "bws",
+      "category": "liquor_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/bws/"
+    },
+    {
+      "name": "Calvin Klein",
+      "slug": "calvin-klein",
+      "category": "premium_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/calvin-klein/"
+    },
+    {
+      "name": "Camera House",
+      "slug": "camera-house",
+      "category": "camera_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/camera-house/"
+    },
+    {
+      "name": "Camilla",
+      "slug": "camilla",
+      "category": "luxury_resortwear",
+      "url": "https://www.doublesave.com/au/discount-codes/camilla/"
+    },
+    {
+      "name": "Camilla and Marc",
+      "slug": "camilla-and-marc",
+      "category": "designer_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/camilla-and-marc/"
+    },
+    {
+      "name": "Canva",
+      "slug": "canva",
+      "category": "design_software",
+      "url": "https://www.doublesave.com/au/discount-codes/canva/"
+    },
+    {
+      "name": "Centre Com",
+      "slug": "centre-com",
+      "category": "computing",
+      "url": "https://www.doublesave.com/au/discount-codes/centre-com/"
+    },
+    {
+      "name": "Cettire",
+      "slug": "cettire",
+      "category": "luxury_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/cettire/"
+    },
+    {
+      "name": "Champion",
+      "slug": "champion",
+      "category": "streetwear",
+      "url": "https://www.doublesave.com/au/discount-codes/champion/"
+    },
+    {
+      "name": "Chemist Warehouse",
+      "slug": "chemist-warehouse",
+      "category": "health_pharmacy",
+      "url": "https://www.doublesave.com/au/discount-codes/chemist-warehouse/"
+    },
+    {
+      "name": "City Beach",
+      "slug": "city-beach",
+      "category": "youth_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/city-beach/"
+    },
+    {
+      "name": "Clark Rubber",
+      "slug": "clark-rubber",
+      "category": "home_leisure",
+      "url": "https://www.doublesave.com/au/discount-codes/clark-rubber/"
+    },
+    {
+      "name": "Clearly",
+      "slug": "clearly",
+      "category": "optical",
+      "url": "https://www.doublesave.com/au/discount-codes/clearly/"
+    },
+    {
+      "name": "Coles",
+      "slug": "coles",
+      "category": "grocery",
+      "url": "https://www.doublesave.com/au/discount-codes/coles/"
+    },
+    {
+      "name": "Connor",
+      "slug": "connor",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/connor/"
+    },
+    {
+      "name": "Converse",
+      "slug": "converse",
+      "category": "sneakers",
+      "url": "https://www.doublesave.com/au/discount-codes/converse/"
+    },
+    {
+      "name": "Costco",
+      "slug": "costco",
+      "category": "warehouse_club",
+      "url": "https://www.doublesave.com/au/discount-codes/costco/"
+    },
+    {
+      "name": "Cotton On",
+      "slug": "cotton-on",
+      "category": "fashion_apparel",
+      "url": "https://www.doublesave.com/au/discount-codes/cotton-on/"
+    },
+    {
+      "name": "Cotton On Body",
+      "slug": "cotton-on-body",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/cotton-on-body/"
+    },
+    {
+      "name": "Country Road",
+      "slug": "country-road",
+      "category": "premium_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/country-road/"
+    },
+    {
+      "name": "Crocs",
+      "slug": "crocs",
+      "category": "casual_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/crocs/"
+    },
+    {
+      "name": "Crust Pizza",
+      "slug": "crust-pizza",
+      "category": "fast_casual",
+      "url": "https://www.doublesave.com/au/discount-codes/crust-pizza/"
+    },
+    {
+      "name": "Cue",
+      "slug": "cue",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/cue/"
+    },
+    {
+      "name": "Culture Kings",
+      "slug": "culture-kings",
+      "category": "streetwear",
+      "url": "https://www.doublesave.com/au/discount-codes/culture-kings/"
+    },
+    {
+      "name": "Currumbin Wildlife Sanctuary",
+      "slug": "currumbin-wildlife-sanctuary",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/currumbin-wildlife-sanctuary/"
+    },
+    {
+      "name": "Daiso",
+      "slug": "daiso",
+      "category": "discount_variety",
+      "url": "https://www.doublesave.com/au/discount-codes/daiso/"
+    },
+    {
+      "name": "Dan Murphy's",
+      "slug": "dan-murphys",
+      "category": "liquor_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/dan-murphys/"
+    },
+    {
+      "name": "David Jones",
+      "slug": "david-jones",
+      "category": "department_store",
+      "url": "https://www.doublesave.com/au/discount-codes/david-jones/"
+    },
+    {
+      "name": "De'Longhi",
+      "slug": "delonghi",
+      "category": "kitchen_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/delonghi/"
+    },
+    {
+      "name": "Decathlon",
+      "slug": "decathlon",
+      "category": "sporting_goods",
+      "url": "https://www.doublesave.com/au/discount-codes/decathlon/"
+    },
+    {
+      "name": "Dell",
+      "slug": "dell",
+      "category": "computers",
+      "url": "https://www.doublesave.com/au/discount-codes/dell/"
+    },
+    {
+      "name": "DiDi",
+      "slug": "didi",
+      "category": "rideshare",
+      "url": "https://www.doublesave.com/au/discount-codes/didi/"
+    },
+    {
+      "name": "digiDirect",
+      "slug": "digidirect",
+      "category": "camera_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/digidirect/"
+    },
+    {
+      "name": "Dinnerly",
+      "slug": "dinnerly",
+      "category": "meal_kits",
+      "url": "https://www.doublesave.com/au/discount-codes/dinnerly/"
+    },
+    {
+      "name": "Discovery Parks",
+      "slug": "discovery-parks",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/discovery-parks/"
+    },
+    {
+      "name": "DJI",
+      "slug": "dji",
+      "category": "drones_cameras",
+      "url": "https://www.doublesave.com/au/discount-codes/dji/"
+    },
+    {
+      "name": "Domino's",
+      "slug": "dominos",
+      "category": "fast_food_delivery",
+      "url": "https://www.doublesave.com/au/discount-codes/dominos/"
+    },
+    {
+      "name": "Donut King",
+      "slug": "donut-king",
+      "category": "treats_fastfood",
+      "url": "https://www.doublesave.com/au/discount-codes/donut-king/"
+    },
+    {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "category": "food_delivery",
+      "url": "https://www.doublesave.com/au/discount-codes/doordash/"
+    },
+    {
+      "name": "Dotti",
+      "slug": "dotti",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/dotti/"
+    },
+    {
+      "name": "Dr. Martens",
+      "slug": "dr-martens",
+      "category": "boots",
+      "url": "https://www.doublesave.com/au/discount-codes/dr-martens/"
+    },
+    {
+      "name": "Dreamworld",
+      "slug": "dreamworld",
+      "category": "theme_parks",
+      "url": "https://www.doublesave.com/au/discount-codes/dreamworld/"
+    },
+    {
+      "name": "Dresden Vision",
+      "slug": "dresden-vision",
+      "category": "optical",
+      "url": "https://www.doublesave.com/au/discount-codes/dresden-vision/"
+    },
+    {
+      "name": "Drummond Golf",
+      "slug": "drummond-golf",
+      "category": "golf",
+      "url": "https://www.doublesave.com/au/discount-codes/drummond-golf/"
+    },
+    {
+      "name": "dusk",
+      "slug": "dusk",
+      "category": "home_fragrance",
+      "url": "https://www.doublesave.com/au/discount-codes/dusk/"
+    },
+    {
+      "name": "Dymocks",
+      "slug": "dymocks",
+      "category": "books",
+      "url": "https://www.doublesave.com/au/discount-codes/dymocks/"
+    },
+    {
+      "name": "Dyson",
+      "slug": "dyson",
+      "category": "premium_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/dyson/"
+    },
+    {
+      "name": "Easyflowers",
+      "slug": "easyflowers",
+      "category": "flowers_gifting",
+      "url": "https://www.doublesave.com/au/discount-codes/easyflowers/"
+    },
+    {
+      "name": "EatClub",
+      "slug": "eatclub",
+      "category": "dining",
+      "url": "https://www.doublesave.com/au/discount-codes/eatclub/"
+    },
+    {
+      "name": "EB Games",
+      "slug": "eb-games",
+      "category": "gaming_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/eb-games/"
+    },
+    {
+      "name": "eBay",
+      "slug": "ebay",
+      "category": "marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/ebay/"
+    },
+    {
+      "name": "Ecosa",
+      "slug": "ecosa",
+      "category": "mattresses",
+      "url": "https://www.doublesave.com/au/discount-codes/ecosa/"
+    },
+    {
+      "name": "Elite Supps",
+      "slug": "elite-supps",
+      "category": "supplements_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/elite-supps/"
+    },
+    {
+      "name": "Emma Sleep",
+      "slug": "emma-sleep",
+      "category": "mattresses",
+      "url": "https://www.doublesave.com/au/discount-codes/emma-sleep/"
+    },
+    {
+      "name": "Europcar",
+      "slug": "europcar",
+      "category": "car_hire",
+      "url": "https://www.doublesave.com/au/discount-codes/europcar/"
+    },
+    {
+      "name": "Event Cinemas",
+      "slug": "event-cinemas",
+      "category": "cinema",
+      "url": "https://www.doublesave.com/au/discount-codes/event-cinemas/"
+    },
+    {
+      "name": "Expedia",
+      "slug": "expedia",
+      "category": "travel_booking",
+      "url": "https://www.doublesave.com/au/discount-codes/expedia/"
+    },
+    {
+      "name": "Factorie",
+      "slug": "factorie",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/factorie/"
+    },
+    {
+      "name": "Fantastic Furniture",
+      "slug": "fantastic-furniture",
+      "category": "furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/fantastic-furniture/"
+    },
+    {
+      "name": "Farfetch",
+      "slug": "farfetch",
+      "category": "luxury_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/farfetch/"
+    },
+    {
+      "name": "First Choice Liquor",
+      "slug": "first-choice-liquor",
+      "category": "liquor",
+      "url": "https://www.doublesave.com/au/discount-codes/first-choice-liquor/"
+    },
+    {
+      "name": "First Table",
+      "slug": "first-table",
+      "category": "dining",
+      "url": "https://www.doublesave.com/au/discount-codes/first-table/"
+    },
+    {
+      "name": "Flight Centre",
+      "slug": "flight-centre",
+      "category": "travel_agency",
+      "url": "https://www.doublesave.com/au/discount-codes/flight-centre/"
+    },
+    {
+      "name": "Foot Locker",
+      "slug": "foot-locker",
+      "category": "footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/foot-locker/"
+    },
+    {
+      "name": "Forever New",
+      "slug": "forever-new",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/forever-new/"
+    },
+    {
+      "name": "Forty Winks",
+      "slug": "forty-winks",
+      "category": "bedding_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/forty-winks/"
+    },
+    {
+      "name": "Frank Body",
+      "slug": "frank-body",
+      "category": "skincare",
+      "url": "https://www.doublesave.com/au/discount-codes/frank-body/"
+    },
+    {
+      "name": "Frank Green",
+      "slug": "frank-green",
+      "category": "drinkware",
+      "url": "https://www.doublesave.com/au/discount-codes/frank-green/"
+    },
+    {
+      "name": "FRANKiE4",
+      "slug": "frankie4",
+      "category": "comfort_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/frankie4/"
+    },
+    {
+      "name": "Freedom",
+      "slug": "freedom",
+      "category": "furniture_homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/freedom/"
+    },
+    {
+      "name": "Garmin",
+      "slug": "garmin",
+      "category": "wearables",
+      "url": "https://www.doublesave.com/au/discount-codes/garmin/"
+    },
+    {
+      "name": "ghd",
+      "slug": "ghd",
+      "category": "haircare_tools",
+      "url": "https://www.doublesave.com/au/discount-codes/ghd/"
+    },
+    {
+      "name": "Glassons",
+      "slug": "glassons",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/glassons/"
+    },
+    {
+      "name": "Glue Store",
+      "slug": "glue-store",
+      "category": "youth_multi_brand",
+      "url": "https://www.doublesave.com/au/discount-codes/glue-store/"
+    },
+    {
+      "name": "Go-To Skincare",
+      "slug": "go-to-skincare",
+      "category": "skincare",
+      "url": "https://www.doublesave.com/au/discount-codes/go-to-skincare/"
+    },
+    {
+      "name": "GoPro",
+      "slug": "gopro",
+      "category": "action_cameras",
+      "url": "https://www.doublesave.com/au/discount-codes/gopro/"
+    },
+    {
+      "name": "Gorman",
+      "slug": "gorman",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/gorman/"
+    },
+    {
+      "name": "Greyhound Australia",
+      "slug": "greyhound",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/greyhound/"
+    },
+    {
+      "name": "Grill'd",
+      "slug": "grilld",
+      "category": "burger_restaurants",
+      "url": "https://www.doublesave.com/au/discount-codes/grilld/"
+    },
+    {
+      "name": "Groupon",
+      "slug": "groupon",
+      "category": "deals_marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/groupon/"
+    },
+    {
+      "name": "Guzman y Gomez",
+      "slug": "guzman-y-gomez",
+      "category": "mexican_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/guzman-y-gomez/"
+    },
+    {
+      "name": "Gymshark",
+      "slug": "gymshark",
+      "category": "gym_apparel",
+      "url": "https://www.doublesave.com/au/discount-codes/gymshark/"
+    },
+    {
+      "name": "H&M",
+      "slug": "h-and-m",
+      "category": "fast_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/h-and-m/"
+    },
+    {
+      "name": "Hairhouse",
+      "slug": "hairhouse",
+      "category": "hair_beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/hairhouse/"
+    },
+    {
+      "name": "Harris Scarfe",
+      "slug": "harris-scarfe",
+      "category": "department_homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/harris-scarfe/"
+    },
+    {
+      "name": "Harvey Norman",
+      "slug": "harvey-norman",
+      "category": "electronics_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/harvey-norman/"
+    },
+    {
+      "name": "Hello Molly",
+      "slug": "hello-molly",
+      "category": "occasionwear_online",
+      "url": "https://www.doublesave.com/au/discount-codes/hello-molly/"
+    },
+    {
+      "name": "HelloFresh",
+      "slug": "hellofresh",
+      "category": "meal_kits",
+      "url": "https://www.doublesave.com/au/discount-codes/hellofresh/"
+    },
+    {
+      "name": "Hertz",
+      "slug": "hertz",
+      "category": "car_hire",
+      "url": "https://www.doublesave.com/au/discount-codes/hertz/"
+    },
+    {
+      "name": "HOKA",
+      "slug": "hoka",
+      "category": "footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/hoka/"
+    },
+    {
+      "name": "Honey Birdette",
+      "slug": "honey-birdette",
+      "category": "lingerie",
+      "url": "https://www.doublesave.com/au/discount-codes/honey-birdette/"
+    },
+    {
+      "name": "Hotels.com",
+      "slug": "hotels-com",
+      "category": "travel_booking",
+      "url": "https://www.doublesave.com/au/discount-codes/hotels-com/"
+    },
+    {
+      "name": "House",
+      "slug": "house",
+      "category": "homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/house/"
+    },
+    {
+      "name": "Hoyts",
+      "slug": "hoyts",
+      "category": "cinema",
+      "url": "https://www.doublesave.com/au/discount-codes/hoyts/"
+    },
+    {
+      "name": "HP",
+      "slug": "hp",
+      "category": "computers",
+      "url": "https://www.doublesave.com/au/discount-codes/hp/"
+    },
+    {
+      "name": "Hungry Jack's",
+      "slug": "hungry-jacks",
+      "category": "fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/hungry-jacks/"
+    },
+    {
+      "name": "Hype DC",
+      "slug": "hype-dc",
+      "category": "sneakers",
+      "url": "https://www.doublesave.com/au/discount-codes/hype-dc/"
+    },
+    {
+      "name": "IGA",
+      "slug": "iga",
+      "category": "groceries",
+      "url": "https://www.doublesave.com/au/discount-codes/iga/"
+    },
+    {
+      "name": "iHerb",
+      "slug": "iherb",
+      "category": "health_supplements",
+      "url": "https://www.doublesave.com/au/discount-codes/iherb/"
+    },
+    {
+      "name": "IKEA",
+      "slug": "ikea",
+      "category": "flat_pack_furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/ikea/"
+    },
+    {
+      "name": "Interflora",
+      "slug": "interflora",
+      "category": "flowers_gifting",
+      "url": "https://www.doublesave.com/au/discount-codes/interflora/"
+    },
+    {
+      "name": "Jacqui E",
+      "slug": "jacqui-e",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/jacqui-e/"
+    },
+    {
+      "name": "JAG",
+      "slug": "jag",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/jag/"
+    },
+    {
+      "name": "Jay Jays",
+      "slug": "jay-jays",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/jay-jays/"
+    },
+    {
+      "name": "JB Hi-Fi",
+      "slug": "jb-hi-fi",
+      "category": "consumer_electronics",
+      "url": "https://www.doublesave.com/au/discount-codes/jb-hi-fi/"
+    },
+    {
+      "name": "JD Sports",
+      "slug": "jd-sports",
+      "category": "sports_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/jd-sports/"
+    },
+    {
+      "name": "Jetstar",
+      "slug": "jetstar",
+      "category": "flights_travel",
+      "url": "https://www.doublesave.com/au/discount-codes/jetstar/"
+    },
+    {
+      "name": "Johnny Bigg",
+      "slug": "johnny-bigg",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/johnny-bigg/"
+    },
+    {
+      "name": "Journey Beyond",
+      "slug": "journey-beyond",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/journey-beyond/"
+    },
+    {
+      "name": "July",
+      "slug": "july",
+      "category": "luggage",
+      "url": "https://www.doublesave.com/au/discount-codes/july/"
+    },
+    {
+      "name": "Just Jeans",
+      "slug": "just-jeans",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/just-jeans/"
+    },
+    {
+      "name": "Kathmandu",
+      "slug": "kathmandu",
+      "category": "outdoor_gear",
+      "url": "https://www.doublesave.com/au/discount-codes/kathmandu/"
+    },
+    {
+      "name": "Kayo Sports",
+      "slug": "kayo-sports",
+      "category": "streaming",
+      "url": "https://www.doublesave.com/au/discount-codes/kayo-sports/"
+    },
+    {
+      "name": "KFC",
+      "slug": "kfc",
+      "category": "fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/kfc/"
+    },
+    {
+      "name": "King Living",
+      "slug": "king-living",
+      "category": "furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/king-living/"
+    },
+    {
+      "name": "Kitchen Warehouse",
+      "slug": "kitchen-warehouse",
+      "category": "homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/kitchen-warehouse/"
+    },
+    {
+      "name": "Klook",
+      "slug": "klook",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/klook/"
+    },
+    {
+      "name": "Kmart",
+      "slug": "kmart",
+      "category": "discount_department",
+      "url": "https://www.doublesave.com/au/discount-codes/kmart/"
+    },
+    {
+      "name": "Koala",
+      "slug": "koala",
+      "category": "mattress_dtc",
+      "url": "https://www.doublesave.com/au/discount-codes/koala/"
+    },
+    {
+      "name": "Kogan",
+      "slug": "kogan",
+      "category": "online_marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/kogan/"
+    },
+    {
+      "name": "Krispy Kreme",
+      "slug": "krispy-kreme",
+      "category": "treats_fastfood",
+      "url": "https://www.doublesave.com/au/discount-codes/krispy-kreme/"
+    },
+    {
+      "name": "LEGO",
+      "slug": "lego",
+      "category": "toys",
+      "url": "https://www.doublesave.com/au/discount-codes/lego/"
+    },
+    {
+      "name": "Lenovo",
+      "slug": "lenovo",
+      "category": "computers",
+      "url": "https://www.doublesave.com/au/discount-codes/lenovo/"
+    },
+    {
+      "name": "Levi's",
+      "slug": "levis",
+      "category": "denim",
+      "url": "https://www.doublesave.com/au/discount-codes/levis/"
+    },
+    {
+      "name": "Lincraft",
+      "slug": "lincraft",
+      "category": "craft_fabric",
+      "url": "https://www.doublesave.com/au/discount-codes/lincraft/"
+    },
+    {
+      "name": "Liquorland",
+      "slug": "liquorland",
+      "category": "liquor_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/liquorland/"
+    },
+    {
+      "name": "Lite n' Easy",
+      "slug": "lite-n-easy",
+      "category": "prepared_meals",
+      "url": "https://www.doublesave.com/au/discount-codes/lite-n-easy/"
+    },
+    {
+      "name": "Logitech",
+      "slug": "logitech",
+      "category": "gaming_gear",
+      "url": "https://www.doublesave.com/au/discount-codes/logitech/"
+    },
+    {
+      "name": "LOOKFANTASTIC",
+      "slug": "lookfantastic",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/lookfantastic/"
+    },
+    {
+      "name": "Lorna Jane",
+      "slug": "lorna-jane",
+      "category": "activewear",
+      "url": "https://www.doublesave.com/au/discount-codes/lorna-jane/"
+    },
+    {
+      "name": "Lounge Lovers",
+      "slug": "lounge-lovers",
+      "category": "furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/lounge-lovers/"
+    },
+    {
+      "name": "Lovisa",
+      "slug": "lovisa",
+      "category": "fashion_jewellery",
+      "url": "https://www.doublesave.com/au/discount-codes/lovisa/"
+    },
+    {
+      "name": "Lowes",
+      "slug": "lowes",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/lowes/"
+    },
+    {
+      "name": "LSKD",
+      "slug": "lskd",
+      "category": "activewear",
+      "url": "https://www.doublesave.com/au/discount-codes/lskd/"
+    },
+    {
+      "name": "Lululemon",
+      "slug": "lululemon",
+      "category": "premium_activewear",
+      "url": "https://www.doublesave.com/au/discount-codes/lululemon/"
+    },
+    {
+      "name": "Luna Park Sydney",
+      "slug": "luna-park-sydney",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/luna-park-sydney/"
+    },
+    {
+      "name": "Lush",
+      "slug": "lush",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/lush/"
+    },
+    {
+      "name": "Luxury Escapes",
+      "slug": "luxury-escapes",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/luxury-escapes/"
+    },
+    {
+      "name": "M.J. Bale",
+      "slug": "mj-bale",
+      "category": "menswear",
+      "url": "https://www.doublesave.com/au/discount-codes/mj-bale/"
+    },
+    {
+      "name": "Macpac",
+      "slug": "macpac",
+      "category": "outdoor_gear",
+      "url": "https://www.doublesave.com/au/discount-codes/macpac/"
+    },
+    {
+      "name": "Mad Mex",
+      "slug": "mad-mex",
+      "category": "mexican_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/mad-mex/"
+    },
+    {
+      "name": "Madame Tussauds Sydney",
+      "slug": "madame-tussauds-sydney",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/madame-tussauds-sydney/"
+    },
+    {
+      "name": "Marley Spoon",
+      "slug": "marley-spoon",
+      "category": "meal_kits",
+      "url": "https://www.doublesave.com/au/discount-codes/marley-spoon/"
+    },
+    {
+      "name": "McDonald's",
+      "slug": "mcdonalds",
+      "category": "fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/mcdonalds/"
+    },
+    {
+      "name": "MCoBeauty",
+      "slug": "mcobeauty",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/mcobeauty/"
+    },
+    {
+      "name": "Mecca",
+      "slug": "mecca",
+      "category": "beauty_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/mecca/"
+    },
+    {
+      "name": "Melbourne Skydeck",
+      "slug": "melbourne-skydeck",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/melbourne-skydeck/"
+    },
+    {
+      "name": "Melbourne Zoo",
+      "slug": "melbourne-zoo",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/melbourne-zoo/"
+    },
+    {
+      "name": "Menulog",
+      "slug": "menulog",
+      "category": "food_delivery",
+      "url": "https://www.doublesave.com/au/discount-codes/menulog/"
+    },
+    {
+      "name": "Meshki",
+      "slug": "meshki",
+      "category": "womens_fashion_online",
+      "url": "https://www.doublesave.com/au/discount-codes/meshki/"
+    },
+    {
+      "name": "Michael Hill",
+      "slug": "michael-hill",
+      "category": "jewellery",
+      "url": "https://www.doublesave.com/au/discount-codes/michael-hill/"
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+      "category": "computers",
+      "url": "https://www.doublesave.com/au/discount-codes/microsoft/"
+    },
+    {
+      "name": "Mimco",
+      "slug": "mimco",
+      "category": "accessories",
+      "url": "https://www.doublesave.com/au/discount-codes/mimco/"
+    },
+    {
+      "name": "Mitre 10",
+      "slug": "mitre-10",
+      "category": "hardware",
+      "url": "https://www.doublesave.com/au/discount-codes/mitre-10/"
+    },
+    {
+      "name": "Modibodi",
+      "slug": "modibodi",
+      "category": "underwear_basics",
+      "url": "https://www.doublesave.com/au/discount-codes/modibodi/"
+    },
+    {
+      "name": "Movie World",
+      "slug": "movie-world",
+      "category": "theme_parks",
+      "url": "https://www.doublesave.com/au/discount-codes/movie-world/"
+    },
+    {
+      "name": "Muffin Break",
+      "slug": "muffin-break",
+      "category": "bakery",
+      "url": "https://www.doublesave.com/au/discount-codes/muffin-break/"
+    },
+    {
+      "name": "MUJI",
+      "slug": "muji",
+      "category": "stationery_lifestyle",
+      "url": "https://www.doublesave.com/au/discount-codes/muji/"
+    },
+    {
+      "name": "Mwave",
+      "slug": "mwave",
+      "category": "computing",
+      "url": "https://www.doublesave.com/au/discount-codes/mwave/"
+    },
+    {
+      "name": "My Muscle Chef",
+      "slug": "my-muscle-chef",
+      "category": "prepared_meals",
+      "url": "https://www.doublesave.com/au/discount-codes/my-muscle-chef/"
+    },
+    {
+      "name": "mycar Tyre & Auto",
+      "slug": "mycar",
+      "category": "automotive",
+      "url": "https://www.doublesave.com/au/discount-codes/mycar/"
+    },
+    {
+      "name": "Myer",
+      "slug": "myer",
+      "category": "department_store",
+      "url": "https://www.doublesave.com/au/discount-codes/myer/"
+    },
+    {
+      "name": "MyProtein",
+      "slug": "myprotein",
+      "category": "health_supplements",
+      "url": "https://www.doublesave.com/au/discount-codes/myprotein/"
+    },
+    {
+      "name": "Naked Wines",
+      "slug": "naked-wines",
+      "category": "wine_subscription",
+      "url": "https://www.doublesave.com/au/discount-codes/naked-wines/"
+    },
+    {
+      "name": "Nando's",
+      "slug": "nandos",
+      "category": "chicken_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/nandos/"
+    },
+    {
+      "name": "New Balance",
+      "slug": "new-balance",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/new-balance/"
+    },
+    {
+      "name": "Nick Scali",
+      "slug": "nick-scali",
+      "category": "furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/nick-scali/"
+    },
+    {
+      "name": "Nike",
+      "slug": "nike",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/nike/"
+    },
+    {
+      "name": "Ninja Kitchen",
+      "slug": "ninja-kitchen",
+      "category": "kitchen_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/ninja-kitchen/"
+    },
+    {
+      "name": "Nintendo eShop",
+      "slug": "nintendo-eshop",
+      "category": "gaming_digital",
+      "url": "https://www.doublesave.com/au/discount-codes/nintendo-eshop/"
+    },
+    {
+      "name": "NordVPN",
+      "slug": "nordvpn",
+      "category": "vpn_software",
+      "url": "https://www.doublesave.com/au/discount-codes/nordvpn/"
+    },
+    {
+      "name": "Novo Shoes",
+      "slug": "novo-shoes",
+      "category": "womens_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/novo-shoes/"
+    },
+    {
+      "name": "NRMA",
+      "slug": "nrma",
+      "category": "membership",
+      "url": "https://www.doublesave.com/au/discount-codes/nrma/"
+    },
+    {
+      "name": "Nutrition Warehouse",
+      "slug": "nutrition-warehouse",
+      "category": "supplements_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/nutrition-warehouse/"
+    },
+    {
+      "name": "Officeworks",
+      "slug": "officeworks",
+      "category": "office_supplies_tech",
+      "url": "https://www.doublesave.com/au/discount-codes/officeworks/"
+    },
+    {
+      "name": "On",
+      "slug": "on-running",
+      "category": "footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/on-running/"
+    },
+    {
+      "name": "Oporto",
+      "slug": "oporto",
+      "category": "chicken_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/oporto/"
+    },
+    {
+      "name": "OPSM",
+      "slug": "opsm",
+      "category": "optical",
+      "url": "https://www.doublesave.com/au/discount-codes/opsm/"
+    },
+    {
+      "name": "Optus",
+      "slug": "optus",
+      "category": "telco",
+      "url": "https://www.doublesave.com/au/discount-codes/optus/"
+    },
+    {
+      "name": "Oroton",
+      "slug": "oroton",
+      "category": "accessories",
+      "url": "https://www.doublesave.com/au/discount-codes/oroton/"
+    },
+    {
+      "name": "Oscar Wylee",
+      "slug": "oscar-wylee",
+      "category": "optical",
+      "url": "https://www.doublesave.com/au/discount-codes/oscar-wylee/"
+    },
+    {
+      "name": "Oz Hair & Beauty",
+      "slug": "oz-hair-beauty",
+      "category": "hair_beauty_online",
+      "url": "https://www.doublesave.com/au/discount-codes/oz-hair-beauty/"
+    },
+    {
+      "name": "Pandora",
+      "slug": "pandora",
+      "category": "jewellery",
+      "url": "https://www.doublesave.com/au/discount-codes/pandora/"
+    },
+    {
+      "name": "Paramount+",
+      "slug": "paramount-plus",
+      "category": "streaming",
+      "url": "https://www.doublesave.com/au/discount-codes/paramount-plus/"
+    },
+    {
+      "name": "Patagonia",
+      "slug": "patagonia",
+      "category": "outdoor_gear",
+      "url": "https://www.doublesave.com/au/discount-codes/patagonia/"
+    },
+    {
+      "name": "PC Case Gear",
+      "slug": "pc-case-gear",
+      "category": "computing",
+      "url": "https://www.doublesave.com/au/discount-codes/pc-case-gear/"
+    },
+    {
+      "name": "Pet Chemist",
+      "slug": "pet-chemist",
+      "category": "pet_supplies",
+      "url": "https://www.doublesave.com/au/discount-codes/pet-chemist/"
+    },
+    {
+      "name": "Pet Circle",
+      "slug": "pet-circle",
+      "category": "online_pet",
+      "url": "https://www.doublesave.com/au/discount-codes/pet-circle/"
+    },
+    {
+      "name": "Petal & Pup",
+      "slug": "petal-and-pup",
+      "category": "womens_fashion_online",
+      "url": "https://www.doublesave.com/au/discount-codes/petal-and-pup/"
+    },
+    {
+      "name": "Petbarn",
+      "slug": "petbarn",
+      "category": "pet_supplies",
+      "url": "https://www.doublesave.com/au/discount-codes/petbarn/"
+    },
+    {
+      "name": "Peter Alexander",
+      "slug": "peter-alexander",
+      "category": "sleepwear",
+      "url": "https://www.doublesave.com/au/discount-codes/peter-alexander/"
+    },
+    {
+      "name": "Peter's of Kensington",
+      "slug": "peters-of-kensington",
+      "category": "homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/peters-of-kensington/"
+    },
+    {
+      "name": "Petstock",
+      "slug": "petstock",
+      "category": "pet_supplies",
+      "url": "https://www.doublesave.com/au/discount-codes/petstock/"
+    },
+    {
+      "name": "Pillow Talk",
+      "slug": "pillow-talk",
+      "category": "homewares_bedding",
+      "url": "https://www.doublesave.com/au/discount-codes/pillow-talk/"
+    },
+    {
+      "name": "Pizza Hut",
+      "slug": "pizza-hut",
+      "category": "fast_food_delivery",
+      "url": "https://www.doublesave.com/au/discount-codes/pizza-hut/"
+    },
+    {
+      "name": "Platypus",
+      "slug": "platypus",
+      "category": "sneakers",
+      "url": "https://www.doublesave.com/au/discount-codes/platypus/"
+    },
+    {
+      "name": "PlayStation Store",
+      "slug": "playstation-store",
+      "category": "gaming_digital",
+      "url": "https://www.doublesave.com/au/discount-codes/playstation-store/"
+    },
+    {
+      "name": "Plush",
+      "slug": "plush",
+      "category": "furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/plush/"
+    },
+    {
+      "name": "Politix",
+      "slug": "politix",
+      "category": "menswear",
+      "url": "https://www.doublesave.com/au/discount-codes/politix/"
+    },
+    {
+      "name": "Portmans",
+      "slug": "portmans",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/portmans/"
+    },
+    {
+      "name": "Priceline",
+      "slug": "priceline",
+      "category": "health_beauty_pharmacy",
+      "url": "https://www.doublesave.com/au/discount-codes/priceline/"
+    },
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "category": "womens_fashion_online",
+      "url": "https://www.doublesave.com/au/discount-codes/princess-polly/"
+    },
+    {
+      "name": "Prouds",
+      "slug": "prouds",
+      "category": "jewellery",
+      "url": "https://www.doublesave.com/au/discount-codes/prouds/"
+    },
+    {
+      "name": "PUMA",
+      "slug": "puma",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/puma/"
+    },
+    {
+      "name": "Pushys",
+      "slug": "pushys",
+      "category": "cycling",
+      "url": "https://www.doublesave.com/au/discount-codes/pushys/"
+    },
+    {
+      "name": "Qantas",
+      "slug": "qantas",
+      "category": "airlines",
+      "url": "https://www.doublesave.com/au/discount-codes/qantas/"
+    },
+    {
+      "name": "Qantas Shopping",
+      "slug": "qantas-shopping",
+      "category": "cashback",
+      "url": "https://www.doublesave.com/au/discount-codes/qantas-shopping/"
+    },
+    {
+      "name": "Quiksilver",
+      "slug": "quiksilver",
+      "category": "surfwear",
+      "url": "https://www.doublesave.com/au/discount-codes/quiksilver/"
+    },
+    {
+      "name": "R.M.Williams",
+      "slug": "rm-williams",
+      "category": "heritage_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/rm-williams/"
+    },
+    {
+      "name": "RACV",
+      "slug": "racv",
+      "category": "membership",
+      "url": "https://www.doublesave.com/au/discount-codes/racv/"
+    },
+    {
+      "name": "Ray-Ban",
+      "slug": "ray-ban",
+      "category": "eyewear",
+      "url": "https://www.doublesave.com/au/discount-codes/ray-ban/"
+    },
+    {
+      "name": "Razer",
+      "slug": "razer",
+      "category": "gaming_gear",
+      "url": "https://www.doublesave.com/au/discount-codes/razer/"
+    },
+    {
+      "name": "rebel",
+      "slug": "rebel",
+      "category": "sports_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/rebel/"
+    },
+    {
+      "name": "Red Rooster",
+      "slug": "red-rooster",
+      "category": "chicken_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/red-rooster/"
+    },
+    {
+      "name": "RedBalloon",
+      "slug": "redballoon",
+      "category": "experiences_gifting",
+      "url": "https://www.doublesave.com/au/discount-codes/redballoon/"
+    },
+    {
+      "name": "Repco",
+      "slug": "repco",
+      "category": "auto_parts",
+      "url": "https://www.doublesave.com/au/discount-codes/repco/"
+    },
+    {
+      "name": "Rip Curl",
+      "slug": "rip-curl",
+      "category": "surfwear",
+      "url": "https://www.doublesave.com/au/discount-codes/rip-curl/"
+    },
+    {
+      "name": "Robins Kitchen",
+      "slug": "robins-kitchen",
+      "category": "homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/robins-kitchen/"
+    },
+    {
+      "name": "Rockwear",
+      "slug": "rockwear",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/rockwear/"
+    },
+    {
+      "name": "Roses Only",
+      "slug": "roses-only",
+      "category": "flowers_gifting",
+      "url": "https://www.doublesave.com/au/discount-codes/roses-only/"
+    },
+    {
+      "name": "Rubi",
+      "slug": "rubi",
+      "category": "footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/rubi/"
+    },
+    {
+      "name": "Ryderwear",
+      "slug": "ryderwear",
+      "category": "performance_apparel",
+      "url": "https://www.doublesave.com/au/discount-codes/ryderwear/"
+    },
+    {
+      "name": "Rydges",
+      "slug": "rydges",
+      "category": "hotels",
+      "url": "https://www.doublesave.com/au/discount-codes/rydges/"
+    },
+    {
+      "name": "SABA",
+      "slug": "saba",
+      "category": "premium_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/saba/"
+    },
+    {
+      "name": "Samsung",
+      "slug": "samsung",
+      "category": "consumer_electronics",
+      "url": "https://www.doublesave.com/au/discount-codes/samsung/"
+    },
+    {
+      "name": "Scoopon",
+      "slug": "scoopon",
+      "category": "deals_marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/scoopon/"
+    },
+    {
+      "name": "Scorptec",
+      "slug": "scorptec",
+      "category": "computing",
+      "url": "https://www.doublesave.com/au/discount-codes/scorptec/"
+    },
+    {
+      "name": "SEA LIFE Sydney",
+      "slug": "sea-life-sydney",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/sea-life-sydney/"
+    },
+    {
+      "name": "Sea World",
+      "slug": "sea-world",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/sea-world/"
+    },
+    {
+      "name": "Seafolly",
+      "slug": "seafolly",
+      "category": "swimwear",
+      "url": "https://www.doublesave.com/au/discount-codes/seafolly/"
+    },
+    {
+      "name": "SeaLink",
+      "slug": "sealink",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/sealink/"
+    },
+    {
+      "name": "Secretlab",
+      "slug": "secretlab",
+      "category": "gaming_furniture",
+      "url": "https://www.doublesave.com/au/discount-codes/secretlab/"
+    },
+    {
+      "name": "Secure Parking",
+      "slug": "secure-parking",
+      "category": "parking",
+      "url": "https://www.doublesave.com/au/discount-codes/secure-parking/"
+    },
+    {
+      "name": "Seed Heritage",
+      "slug": "seed-heritage",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/seed-heritage/"
+    },
+    {
+      "name": "Sephora",
+      "slug": "sephora",
+      "category": "beauty_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/sephora/"
+    },
+    {
+      "name": "Shaver Shop",
+      "slug": "shaver-shop",
+      "category": "personal_care_electronics",
+      "url": "https://www.doublesave.com/au/discount-codes/shaver-shop/"
+    },
+    {
+      "name": "Sheet Society",
+      "slug": "sheet-society",
+      "category": "bedding",
+      "url": "https://www.doublesave.com/au/discount-codes/sheet-society/"
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "category": "fast_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/shein/"
+    },
+    {
+      "name": "Sheridan",
+      "slug": "sheridan",
+      "category": "premium_bedding",
+      "url": "https://www.doublesave.com/au/discount-codes/sheridan/"
+    },
+    {
+      "name": "ShopBack",
+      "slug": "shopback",
+      "category": "cashback",
+      "url": "https://www.doublesave.com/au/discount-codes/shopback/"
+    },
+    {
+      "name": "Showpo",
+      "slug": "showpo",
+      "category": "womens_fashion_online",
+      "url": "https://www.doublesave.com/au/discount-codes/showpo/"
+    },
+    {
+      "name": "SIXT",
+      "slug": "sixt",
+      "category": "car_hire",
+      "url": "https://www.doublesave.com/au/discount-codes/sixt/"
+    },
+    {
+      "name": "Skechers",
+      "slug": "skechers",
+      "category": "comfort_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/skechers/"
+    },
+    {
+      "name": "Smiggle",
+      "slug": "smiggle",
+      "category": "kids_stationery",
+      "url": "https://www.doublesave.com/au/discount-codes/smiggle/"
+    },
+    {
+      "name": "Snooze",
+      "slug": "snooze",
+      "category": "bedding_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/snooze/"
+    },
+    {
+      "name": "Snowys",
+      "slug": "snowys",
+      "category": "camping_outdoor",
+      "url": "https://www.doublesave.com/au/discount-codes/snowys/"
+    },
+    {
+      "name": "Sonos",
+      "slug": "sonos",
+      "category": "audio",
+      "url": "https://www.doublesave.com/au/discount-codes/sonos/"
+    },
+    {
+      "name": "Specsavers",
+      "slug": "specsavers",
+      "category": "optical",
+      "url": "https://www.doublesave.com/au/discount-codes/specsavers/"
+    },
+    {
+      "name": "Spirit of Tasmania",
+      "slug": "spirit-of-tasmania",
+      "category": "travel",
+      "url": "https://www.doublesave.com/au/discount-codes/spirit-of-tasmania/"
+    },
+    {
+      "name": "Sportscraft",
+      "slug": "sportscraft",
+      "category": "premium_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/sportscraft/"
+    },
+    {
+      "name": "Sportsgirl",
+      "slug": "sportsgirl",
+      "category": "youth_womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/sportsgirl/"
+    },
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+      "category": "digital_subscriptions",
+      "url": "https://www.doublesave.com/au/discount-codes/spotify/"
+    },
+    {
+      "name": "Spotlight",
+      "slug": "spotlight",
+      "category": "craft_home",
+      "url": "https://www.doublesave.com/au/discount-codes/spotlight/"
+    },
+    {
+      "name": "Stan",
+      "slug": "stan",
+      "category": "streaming",
+      "url": "https://www.doublesave.com/au/discount-codes/stan/"
+    },
+    {
+      "name": "Starbucks",
+      "slug": "starbucks",
+      "category": "food_drink",
+      "url": "https://www.doublesave.com/au/discount-codes/starbucks/"
+    },
+    {
+      "name": "STAX",
+      "slug": "stax",
+      "category": "activewear",
+      "url": "https://www.doublesave.com/au/discount-codes/stax/"
+    },
+    {
+      "name": "Step One",
+      "slug": "step-one",
+      "category": "underwear_basics",
+      "url": "https://www.doublesave.com/au/discount-codes/step-one/"
+    },
+    {
+      "name": "Strandbags",
+      "slug": "strandbags",
+      "category": "bags_luggage",
+      "url": "https://www.doublesave.com/au/discount-codes/strandbags/"
+    },
+    {
+      "name": "StrawberryNET",
+      "slug": "strawberrynet",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/strawberrynet/"
+    },
+    {
+      "name": "Stylerunner",
+      "slug": "stylerunner",
+      "category": "activewear_multi_brand",
+      "url": "https://www.doublesave.com/au/discount-codes/stylerunner/"
+    },
+    {
+      "name": "Subway",
+      "slug": "subway",
+      "category": "sandwich_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/subway/"
+    },
+    {
+      "name": "Sunglass Hut",
+      "slug": "sunglass-hut",
+      "category": "eyewear",
+      "url": "https://www.doublesave.com/au/discount-codes/sunglass-hut/"
+    },
+    {
+      "name": "Supercheap Auto",
+      "slug": "supercheap-auto",
+      "category": "auto_parts",
+      "url": "https://www.doublesave.com/au/discount-codes/supercheap-auto/"
+    },
+    {
+      "name": "Superdry",
+      "slug": "superdry",
+      "category": "streetwear",
+      "url": "https://www.doublesave.com/au/discount-codes/superdry/"
+    },
+    {
+      "name": "Supr\u00e9",
+      "slug": "supre",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/supre/"
+    },
+    {
+      "name": "Surfshark",
+      "slug": "surfshark",
+      "category": "vpn_software",
+      "url": "https://www.doublesave.com/au/discount-codes/surfshark/"
+    },
+    {
+      "name": "SurfStitch",
+      "slug": "surfstitch",
+      "category": "surf_marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/surfstitch/"
+    },
+    {
+      "name": "Sussan",
+      "slug": "sussan",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/sussan/"
+    },
+    {
+      "name": "Suzanne Grae",
+      "slug": "suzanne-grae",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/suzanne-grae/"
+    },
+    {
+      "name": "Swarovski",
+      "slug": "swarovski",
+      "category": "jewellery",
+      "url": "https://www.doublesave.com/au/discount-codes/swarovski/"
+    },
+    {
+      "name": "Sydney Tools",
+      "slug": "sydney-tools",
+      "category": "tools_trade",
+      "url": "https://www.doublesave.com/au/discount-codes/sydney-tools/"
+    },
+    {
+      "name": "Sydney Tower Eye",
+      "slug": "sydney-tower-eye",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/sydney-tower-eye/"
+    },
+    {
+      "name": "T2 Tea",
+      "slug": "t2-tea",
+      "category": "tea_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/t2-tea/"
+    },
+    {
+      "name": "Target",
+      "slug": "target",
+      "category": "discount_department",
+      "url": "https://www.doublesave.com/au/discount-codes/target/"
+    },
+    {
+      "name": "Tarocash",
+      "slug": "tarocash",
+      "category": "menswear",
+      "url": "https://www.doublesave.com/au/discount-codes/tarocash/"
+    },
+    {
+      "name": "Taronga Zoo",
+      "slug": "taronga-zoo",
+      "category": "zoos_attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/taronga-zoo/"
+    },
+    {
+      "name": "Telstra",
+      "slug": "telstra",
+      "category": "telco",
+      "url": "https://www.doublesave.com/au/discount-codes/telstra/"
+    },
+    {
+      "name": "Temple & Webster",
+      "slug": "temple-and-webster",
+      "category": "furniture_homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/temple-and-webster/"
+    },
+    {
+      "name": "Temu",
+      "slug": "temu",
+      "category": "budget_marketplace",
+      "url": "https://www.doublesave.com/au/discount-codes/temu/"
+    },
+    {
+      "name": "Tentworld",
+      "slug": "tentworld",
+      "category": "camping_outdoor",
+      "url": "https://www.doublesave.com/au/discount-codes/tentworld/"
+    },
+    {
+      "name": "TerryWhite Chemmart",
+      "slug": "terrywhite-chemmart",
+      "category": "pharmacy",
+      "url": "https://www.doublesave.com/au/discount-codes/terrywhite-chemmart/"
+    },
+    {
+      "name": "The Athlete's Foot",
+      "slug": "athletes-foot",
+      "category": "footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/athletes-foot/"
+    },
+    {
+      "name": "The Body Shop",
+      "slug": "the-body-shop",
+      "category": "beauty",
+      "url": "https://www.doublesave.com/au/discount-codes/the-body-shop/"
+    },
+    {
+      "name": "The Coffee Club",
+      "slug": "the-coffee-club",
+      "category": "food_drink",
+      "url": "https://www.doublesave.com/au/discount-codes/the-coffee-club/"
+    },
+    {
+      "name": "The Good Guys",
+      "slug": "the-good-guys",
+      "category": "electronics_appliances",
+      "url": "https://www.doublesave.com/au/discount-codes/the-good-guys/"
+    },
+    {
+      "name": "The Hamper Emporium",
+      "slug": "the-hamper-emporium",
+      "category": "flowers_gifting",
+      "url": "https://www.doublesave.com/au/discount-codes/the-hamper-emporium/"
+    },
+    {
+      "name": "The Iconic",
+      "slug": "the-iconic",
+      "category": "fashion_womenswear",
+      "url": "https://www.doublesave.com/au/discount-codes/the-iconic/"
+    },
+    {
+      "name": "The North Face",
+      "slug": "the-north-face",
+      "category": "outdoor_gear",
+      "url": "https://www.doublesave.com/au/discount-codes/the-north-face/"
+    },
+    {
+      "name": "The Oodie",
+      "slug": "the-oodie",
+      "category": "loungewear",
+      "url": "https://www.doublesave.com/au/discount-codes/the-oodie/"
+    },
+    {
+      "name": "The Reject Shop",
+      "slug": "the-reject-shop",
+      "category": "discount_variety",
+      "url": "https://www.doublesave.com/au/discount-codes/the-reject-shop/"
+    },
+    {
+      "name": "Thrifty",
+      "slug": "thrifty",
+      "category": "car_hire",
+      "url": "https://www.doublesave.com/au/discount-codes/thrifty/"
+    },
+    {
+      "name": "Ticketek",
+      "slug": "ticketek",
+      "category": "event_ticketing",
+      "url": "https://www.doublesave.com/au/discount-codes/ticketek/"
+    },
+    {
+      "name": "Ticketmaster",
+      "slug": "ticketmaster",
+      "category": "event_ticketing",
+      "url": "https://www.doublesave.com/au/discount-codes/ticketmaster/"
+    },
+    {
+      "name": "TK Maxx",
+      "slug": "tk-maxx",
+      "category": "off_price_retail",
+      "url": "https://www.doublesave.com/au/discount-codes/tk-maxx/"
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger",
+      "category": "premium_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/tommy-hilfiger/"
+    },
+    {
+      "name": "Total Tools",
+      "slug": "total-tools",
+      "category": "tools_trade",
+      "url": "https://www.doublesave.com/au/discount-codes/total-tools/"
+    },
+    {
+      "name": "Trenery",
+      "slug": "trenery",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/trenery/"
+    },
+    {
+      "name": "Typo",
+      "slug": "typo",
+      "category": "stationery_lifestyle",
+      "url": "https://www.doublesave.com/au/discount-codes/typo/"
+    },
+    {
+      "name": "Uber",
+      "slug": "uber",
+      "category": "rideshare",
+      "url": "https://www.doublesave.com/au/discount-codes/uber/"
+    },
+    {
+      "name": "Uber Eats",
+      "slug": "uber-eats",
+      "category": "food_delivery_takeaway",
+      "url": "https://www.doublesave.com/au/discount-codes/uber-eats/"
+    },
+    {
+      "name": "UGG",
+      "slug": "ugg",
+      "category": "sheepskin_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/ugg/"
+    },
+    {
+      "name": "Ultra Tune",
+      "slug": "ultra-tune",
+      "category": "automotive",
+      "url": "https://www.doublesave.com/au/discount-codes/ultra-tune/"
+    },
+    {
+      "name": "Under Armour",
+      "slug": "under-armour",
+      "category": "sportswear",
+      "url": "https://www.doublesave.com/au/discount-codes/under-armour/"
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "category": "fast_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/uniqlo/"
+    },
+    {
+      "name": "Universal Store",
+      "slug": "universal-store",
+      "category": "youth_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/universal-store/"
+    },
+    {
+      "name": "Vans",
+      "slug": "vans",
+      "category": "skate_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/vans/"
+    },
+    {
+      "name": "Veronika Maine",
+      "slug": "veronika-maine",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/veronika-maine/"
+    },
+    {
+      "name": "Victoria's Basement",
+      "slug": "victorias-basement",
+      "category": "homewares",
+      "url": "https://www.doublesave.com/au/discount-codes/victorias-basement/"
+    },
+    {
+      "name": "Vinomofo",
+      "slug": "vinomofo",
+      "category": "wine",
+      "url": "https://www.doublesave.com/au/discount-codes/vinomofo/"
+    },
+    {
+      "name": "Vintage Cellars",
+      "slug": "vintage-cellars",
+      "category": "liquor",
+      "url": "https://www.doublesave.com/au/discount-codes/vintage-cellars/"
+    },
+    {
+      "name": "Virgin Australia",
+      "slug": "virgin-australia",
+      "category": "airlines",
+      "url": "https://www.doublesave.com/au/discount-codes/virgin-australia/"
+    },
+    {
+      "name": "Vistaprint",
+      "slug": "vistaprint",
+      "category": "print_services",
+      "url": "https://www.doublesave.com/au/discount-codes/vistaprint/"
+    },
+    {
+      "name": "Weber",
+      "slug": "weber",
+      "category": "bbq_outdoor",
+      "url": "https://www.doublesave.com/au/discount-codes/weber/"
+    },
+    {
+      "name": "Webjet",
+      "slug": "webjet",
+      "category": "travel_ota",
+      "url": "https://www.doublesave.com/au/discount-codes/webjet/"
+    },
+    {
+      "name": "Wet'n'Wild",
+      "slug": "wet-n-wild",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/wet-n-wild/"
+    },
+    {
+      "name": "White Fox",
+      "slug": "white-fox",
+      "category": "youth_fashion_online",
+      "url": "https://www.doublesave.com/au/discount-codes/white-fox/"
+    },
+    {
+      "name": "WILD LIFE Sydney Zoo",
+      "slug": "wild-life-sydney-zoo",
+      "category": "attractions",
+      "url": "https://www.doublesave.com/au/discount-codes/wild-life-sydney-zoo/"
+    },
+    {
+      "name": "Wilson Parking",
+      "slug": "wilson-parking",
+      "category": "parking",
+      "url": "https://www.doublesave.com/au/discount-codes/wilson-parking/"
+    },
+    {
+      "name": "Wine Selectors",
+      "slug": "wine-selectors",
+      "category": "wine",
+      "url": "https://www.doublesave.com/au/discount-codes/wine-selectors/"
+    },
+    {
+      "name": "Witchery",
+      "slug": "witchery",
+      "category": "womens_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/witchery/"
+    },
+    {
+      "name": "Wittner",
+      "slug": "wittner",
+      "category": "womens_footwear",
+      "url": "https://www.doublesave.com/au/discount-codes/wittner/"
+    },
+    {
+      "name": "Woolworths",
+      "slug": "woolworths",
+      "category": "grocery",
+      "url": "https://www.doublesave.com/au/discount-codes/woolworths/"
+    },
+    {
+      "name": "yd.",
+      "slug": "yd",
+      "category": "fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/yd/"
+    },
+    {
+      "name": "Youfoodz",
+      "slug": "youfoodz",
+      "category": "prepared_meals",
+      "url": "https://www.doublesave.com/au/discount-codes/youfoodz/"
+    },
+    {
+      "name": "Zambrero",
+      "slug": "zambrero",
+      "category": "mexican_fast_food",
+      "url": "https://www.doublesave.com/au/discount-codes/zambrero/"
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "category": "fast_fashion",
+      "url": "https://www.doublesave.com/au/discount-codes/zara/"
+    }
+  ]
+}
